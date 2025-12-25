@@ -1,6 +1,6 @@
 # Frost & Noel Series - Drafting Checkpoint
 **Date:** December 25, 2025  
-**Status:** Episodes 1-2 Complete (16/96 chapters drafted)
+**Status:** Episodes 1-3 Complete (24/96 chapters drafted)
 
 ---
 
@@ -53,6 +53,31 @@
 - Consent beat with eye contact
 - Neither discusses it afterward (denial setup for EP3)
 
+### Episode 3: Three French Hens (COMPLETE)
+**Location:** `ep03_three_french_hens/draft_0/`  
+**Word Count:** ~11,935 words  
+**Chapters:** 8/8 complete
+
+- ✅ Chapter 1: Avoidance Dance (~1,442 words)
+- ✅ Chapter 2: Bake-off Brief (~1,260 words)
+- ✅ Chapter 3: Flour Chaos (~1,636 words)
+- ✅ Chapter 4: Quiet Kindness (~1,519 words)
+- ✅ Chapter 5: The Win (~1,360 words)
+- ✅ Chapter 6: The Walk (~1,614 words)
+- ✅ Chapter 7: First Time (~1,538 words)
+- ✅ Chapter 8: Afterglow (~1,566 words)
+
+**Key Elements Delivered:**
+- Avoidance dance after EP2 kiss
+- Bake-off at Candle & Crumb
+- Hugh's flour disaster (comic relief)
+- Eben's hidden kindness revealed (helping nervous baker)
+- "I want to" conversation
+- FIRST SEX SCENE - tender, consent-forward, "Look at me" moment
+- Aftercare with vulnerability
+- Morning after - deciding to try
+- Heat level: First full intimacy
+
 ---
 
 ## 📋 REMAINING WORK
@@ -61,7 +86,7 @@
 
 | Episode | Title | Chapters | Heat Level | Status |
 |---------|-------|----------|------------|--------|
-| EP3 | Three French Hens | 8 | First sex scene | ⏳ NOT STARTED |
+| EP3 | Three French Hens | 8 | First sex scene | ✅ COMPLETE |
 | EP4 | Four Calling Birds | 8 | Established intimacy | ⏳ NOT STARTED |
 | EP5 | Five Gold Rings | 8 | Emotional deepening | ⏳ NOT STARTED |
 | EP6 | Six Geese a-Laying | 8 | Vulnerability | ⏳ NOT STARTED |
@@ -166,18 +191,18 @@ All reference materials are located in:
 ### Overall Series Progress
 - **Total Episodes:** 12
 - **Total Chapters:** 96 (8 per episode)
-- **Completed:** 16 chapters (16.7%)
-- **Remaining:** 80 chapters (83.3%)
+- **Completed:** 24 chapters (25%)
+- **Remaining:** 72 chapters (75%)
 - **Target Total Word Count:** ~120,000-140,000 words
-- **Current Word Count:** ~20,000 words
+- **Current Word Count:** ~31,914 words
 
 ### Next Immediate Tasks
 1. ✅ Episode 1 complete
 2. ✅ Episode 2 complete
-3. ⏳ **NEXT:** Episode 3 (8 chapters, first sex scene)
-4. ⏳ Episode 4 (8 chapters)
+3. ✅ Episode 3 complete
+4. ⏳ **NEXT:** Episode 4 (8 chapters, established intimacy)
 5. ⏳ Episode 5 (8 chapters)
-6. ⏳ Episodes 6-12 (56 chapters)
+6. ⏳ Episodes 6-12 (48 chapters)
 
 ---
 
@@ -226,19 +251,19 @@ All reference materials are located in:
 
 ## 🚀 READY TO CONTINUE
 
-**Next Episode to Draft:** Episode 3 - Three French Hens
+**Next Episode to Draft:** Episode 4 - Four Calling Birds
 
 **Key Info:**
-- **Date:** December 16 (Day 3 of 12)
-- **Heat Level:** First full sex scene
+- **Date:** December 17 (Day 4 of 12)
+- **Heat Level:** Established intimacy
 - **Word Target:** 12,000-15,000 words
-- **Major Beats:** Avoidance dance → bake-off → flour chaos → first time → afterglow
-- **Emotional Arc:** From "pretending it didn't happen" to "this is happening"
+- **Major Beats:** Morning after awkwardness → defining the relationship → public vs private → deepening connection
+- **Emotional Arc:** From "what are we?" to "we're figuring it out together"
 
 **Reference Files:**
-- `outlines/ep03_outline.md` (full chapter breakdown)
-- `dossiers/ep03_dossier.md` (character states, heat content)
-- `episodes/ep03_three_french_hens.md` (scene list)
+- `outlines/ep04_outline.md` (full chapter breakdown)
+- `dossiers/ep04_dossier.md` (character states, heat content)
+- `episodes/ep04_four_calling_birds.md` (scene list)
 
 ---
 
