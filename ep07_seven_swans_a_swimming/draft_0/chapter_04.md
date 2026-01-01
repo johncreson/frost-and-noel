@@ -1,22 +1,86 @@
 ## Chapter 04: The Almost
 
-The Garland Cup was quiet for a late afternoon.
+The Garland Cup was not quiet.
 
-Noel and Eben sat in a corner booth, cocoa warming their hands, the world moving around them at a comfortable distance.
+Noel and Eben walked in and immediately felt the shift. The café wasn't just busy—it was *aware*.
 
-Noel's wrist was bandaged. Visible. A reminder that he'd let himself be taken care of.
+Heads turned. Phones were quickly pocketed. Conversations went silent and then resumed at lower volumes, clearly about something very specific.
 
-It felt strange. Good. Terrifying.
+*Well. That was fast.*
 
-"Thank you," Noel said quietly. "For today."
+Wes appeared at the counter, expression carefully neutral in a way that meant the opposite of neutral.
 
-"You don't have to thank me."
+"Noel. Eben. Coffee? Cocoa? Protection from the gossip mill?"
 
-"I know. I want to."
+"Cocoa," Noel said. "For my wrist." He held up the bandage.
 
-Eben looked at him. "Okay."
+"Saw the photo," Wes said quietly. "You two look. Cozy."
 
-They sat in comfortable silence. Noel watched the steam rise from his cocoa and tried to find the words for what he was feeling.
+Noel's stomach dropped. "It's already—"
+
+"Everywhere. Mrs. Henderson shared it in the community group chat about thirty seconds after whoever took it posted it."
+
+"Great."
+
+"You look good, though. Both of you. Very *tender*." Wes's mouth twitched.
+
+Eben's expression had gone carefully blank. "Two cocoas. Corner booth. Minimal interruption."
+
+"On it."
+
+They retreated to the corner booth. Noel slid in first; Eben took the seat across from him, positioning himself with a clear view of the door.
+
+*Guarding,* Noel realized. *He's still guarding me.*
+
+Wes brought the cocoas. Set them down. Lingered.
+
+"For what it's worth," Wes said, "most people are happy for you. The photo's not scandalous—it's sweet. Eben looking at you like you're made of glass. You looking at him like he's unexpected."
+
+"Sweet," Eben repeated flatly.
+
+"Sweet. Now drink your cocoa and stop looking like you're about to be executed."
+
+Wes left.
+
+Noel wrapped his hands around his mug, trying to find the words.
+
+"I'm sorry," he said finally.
+
+Eben looked up. "For what?"
+
+"For—" Noel gestured. "This. The photo. The gossip. I know you're private. I know you didn't sign up for the whole town knowing our business."
+
+"Noel."
+
+"I can talk to whoever took it. Ask them to take it down. Maybe—"
+
+"Noel." Eben's voice was firm. "Look at me."
+
+Noel looked.
+
+Eben's expression had softened. "I'm not sorry."
+
+"You're not?"
+
+"No. I'm—" Eben paused, searching for words. "Annoyed. That someone invaded our privacy. But not sorry that they saw what they saw."
+
+"What did they see?"
+
+"Me. Taking care of you. The way I want to."
+
+Noel's breath caught.
+
+"I meant what I said," Eben continued quietly. "We don't hide. We don't explain. We just are. If the town wants to take pictures of that—" He shrugged. "Let them."
+
+"You're serious."
+
+"I'm serious."
+
+They sat in silence, but it was different now. Not uncomfortable. Not heavy.
+
+Just—present.
+
+Noel watched the steam rise from his cocoa and tried to find the words for what he was feeling.
 
 "I'm not good at this," he said finally.
 
@@ -48,7 +112,11 @@ Noel's throat felt tight. "Yeah?"
 
 "Yeah."
 
-They sat there, hands touching across the table, and Noel thought: *I'm falling in love with him.*
+Around them, the café continued its quiet observation. Glances. Whispers. The low hum of a town that had just received confirmation of what it had suspected.
+
+Noel found he didn't care.
+
+They sat there, hands touching across the table, surrounded by gossip and warmth and the smell of cocoa, and Noel thought: *I'm falling in love with him.*
 
 That was terrifying.
 

@@ -1,57 +1,139 @@
-## Chapter 02: The Ribbon
+## Chapter 02: The Rally
 
-Night fell. Most people went home. Noel and Eben stayed.
+By noon, the square looked like organized chaos.
 
-The market was nearly done. Just final touches. Lights. Decorations.
+Which was, Noel reflected, better than the *dis*organized chaos they'd started with.
 
-Noel found a spool of red ribbon from a collapsed stall. Wound a piece around his wrist absently, thinking.
+The main tent was back up—not perfect, but functional. Booths were being reconstructed. The sound of hammering and laughter filled the air, punctuated by the occasional curse when someone hit their thumb or discovered another broken decoration.
 
-Eben noticed. He always noticed.
+Wes had set up a full food station. Not just coffee and pastries anymore—he'd brought soup, sandwiches, and what looked like an entire tray of cookies shaped like reindeer.
 
-"Here," Eben said, taking the ribbon. "Let me."
+"Did you make these this morning?" Noel asked, grabbing one.
 
-He tied it properly. Careful. Deliberate. Like it mattered.
+"I don't sleep," Wes said cheerfully. "I bake."
 
-"There," Eben said softly.
+"That's concerning."
 
-The ribbon from Day 1. Now it meant something different.
+"That's commitment."
 
-They worked in comfortable silence. Installing lights. Hanging decorations. Building something together.
+Hugh was directing a team of volunteers on light installation, somehow managing to get glitter on everyone he passed. Sam was quietly fixing structural issues no one else had noticed. Mayor Kringle had stopped stress-eating and started coordinating vendor placement.
 
-"We're actually going to make it," Noel said.
+It was working.
 
-"We are."
+They were actually doing this.
 
-Simple. Present tense. Together.
+"Noel!" Someone called his name. He turned to find Mrs. Chen from the bookshop, holding a box of ornaments. "Where do you want these?"
 
-At 3 AM, Noel fell asleep on a stack of tarps, wrapped in Eben's coat.
+"Uh—" He looked around, trying to remember the layout plan.
 
-Eben watched him sleep and thought: *I could have this. Every day.*
+"South side," Eben said, appearing beside him. "Near the wreath booth."
 
-The thought terrified him.
+Mrs. Chen nodded and headed that direction.
 
-He'd spent his life avoiding exactly this. Attachment. Permanence. The kind of comfort that made you forget to protect yourself.
+Noel glanced at Eben. "You memorized the layout?"
 
-But Noel was asleep in his coat, ribbon still around his wrist, and Eben didn't want to be anywhere else.
+"You showed me the plan last week."
 
-What if he stopped being afraid?
+"Once."
 
-Dawn came. The market was complete.
+"I pay attention."
 
-Beautiful. Functional. Ready.
+Noel's chest did something complicated. "Yeah. You do."
 
-They'd done this. Together.
+They stood there for a moment, surrounded by noise and motion, and Noel felt it again—that sense of *rightness*. Like all the pieces were falling into place. Not just the market. Everything.
 
-"We should rest," Noel said.
+"We should—" Noel started.
 
 "Yeah," Eben agreed.
 
-Neither moved.
+They split up. Noel went to help with booth assembly. Eben went to reinforce the tent structure.
 
-Then: "Come on. Let's go home."
+But Noel kept catching glimpses of him. Across the square. Lifting beams. Checking measurements. Moving with that quiet competence that made Noel's stomach flip.
 
-Home. Noel's apartment. Their space.
+And every time Eben looked up, their eyes met.
 
-They walked back together, exhausted and triumphant.
+Every. Single. Time.
 
-And Eben thought: *This is what partnership looks like.*
+"You two are disgustingly cute," Hugh said, handing Noel a string of lights.
+
+"We're working."
+
+"You're making eyes at each other across a construction site."
+
+"That's—" Noel paused. "Okay, fair."
+
+Hugh grinned. "It's nice. Seeing you happy."
+
+"I'm not—" Noel stopped. Because he was. He was happy. Despite the disaster. Despite the chaos. Despite everything.
+
+He was happy.
+
+"Yeah," he said quietly. "I guess I am."
+
+---
+
+By late afternoon, the market was taking real shape.
+
+Booths were up. Lights were strung. Decorations were being hung. The whole thing looked almost—*good*.
+
+"We're going to make it," someone said.
+
+"We are," someone else agreed.
+
+Noel found himself standing in the middle of the square, watching people work together. Neighbors helping neighbors. Strangers becoming friends. The whole town coming together for something that mattered.
+
+This was what community looked like.
+
+This was what *home* looked like.
+
+Eben appeared at his side. Didn't say anything. Just stood there, shoulder to shoulder, watching the same scene.
+
+"Thank you," Noel said quietly.
+
+"For what?"
+
+"For asking what I needed. Instead of just—taking over."
+
+Eben was quiet for a moment. Then: "You're good at this. Leading. Organizing. People listen to you."
+
+"People listen to you too."
+
+"That's different."
+
+"How?"
+
+"They listen to me because I'm—" Eben paused. "Efficient. Competent. Whatever. They listen to you because they *want* to. Because you make them feel like they matter."
+
+Noel's throat tightened. "Eben—"
+
+"It's true." Eben's voice was soft. Certain. "You're good at this, Noel. You should know that."
+
+First name. Eben had used his first name.
+
+Noel looked at him. Really looked. And saw something in Eben's expression that made his heart stutter.
+
+"We should—" Noel's voice came out rough. "We should get back to work."
+
+"Yeah," Eben said. But he didn't move.
+
+Neither did Noel.
+
+They stood there, in the middle of organized chaos, surrounded by people and noise and motion, and Noel thought: *I could stay here forever.*
+
+Not in the square.
+
+In this moment. With Eben. Building something together.
+
+"Come on," Eben said finally. "Still have work to do."
+
+"Yeah," Noel agreed.
+
+They went back to work.
+
+But something had shifted.
+
+Something had changed.
+
+And Noel knew—absolutely knew—that tonight was going to matter.
+
+He just didn't know how much.

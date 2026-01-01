@@ -1,5 +1,5 @@
 # EPISODE 7 DOSSIER
-## Seven Swans A-Swimming
+## Seven Swans in Scandal
 ### TINSEL TOWN: Noel & Eben
 
 ---
@@ -12,13 +12,13 @@
 | **Date** | December 20 |
 | **Word Target** | 12,000-14,000 |
 | **POV** | Dual (Noel/Eben) |
-| **Heat Level** | Emotional Intimacy Spike |
+| **Heat Level** | Emotional Intimacy Spike + Scandal |
 
 ---
 
 ## Episode Logline
 
-At the ice rink event, Noel overextends and gets hurt—and when Eben takes care of him, Noel discovers he doesn't know how to receive help. He almost says "I need you." Almost.
+At the ice rink event, Noel gets hurt and Eben takes care of him in a private moment—but someone photographs them, and by morning the whole town is talking. He almost says "I need you." Almost.
 
 ---
 
@@ -46,7 +46,7 @@ At the ice rink event, Noel overextends and gets hurt—and when Eben takes care
 |--------|-------|
 | Trust | 4 (deepening) |
 | Intimacy | 4 |
-| Public | Couple (known) |
+| Public | Couple (known) → PHOTOGRAPHED |
 | Private | → Almost confession |
 
 ---
@@ -59,11 +59,14 @@ At the ice rink event, Noel overextends and gets hurt—and when Eben takes care
 4. Noel helps a kid learn to skate
 5. **Noel falls, hurts wrist**
 6. Eben immediately there; takes charge
-7. First aid; Eben cleans the cut, gentle and focused
-8. Noel confronts his fear of receiving care
-9. Cocoa at Garland Cup; quiet intimacy
-10. **Noel almost says "I need you"—doesn't finish**
-11. Noel asks Eben to stay overnight; first time
+7. First aid room; Eben removes coat/layers for warmth, bandages Noel
+8. **SCANDAL BEAT:** Someone photographs them through cracked door—intimate, shirtless moment captured
+9. Eben notices too late; phone disappears into crowd
+10. Noel confronts his fear of receiving care
+11. Cocoa at Garland Cup; quiet intimacy
+12. **Noel almost says "I need you"—doesn't finish**
+13. Gossip already spreading; glances from townspeople
+14. Noel asks Eben to stay overnight; first time
 
 ---
 
@@ -74,10 +77,11 @@ At the ice rink event, Noel overextends and gets hurt—and when Eben takes care
 | 1 | Ice Rink Setup | Noel | Rink | Overworking established |
 | 2 | Skating Event | Dual | Rink | Community; hidden exhaustion |
 | 3 | The Fall | Noel | Rink | Injury catalyst |
-| 4 | The Care | Eben | First aid station | Caretaking scene |
-| 5 | Quiet Space | Noel | Private room | Wound confrontation |
-| 6 | The Almost | Dual | Garland Cup | Almost confession |
-| 7 | Hook Ending | Eben | Noel's door | First stay request |
+| 4 | The Care | Eben | First aid room | Caretaking scene—layers off, intimate |
+| 5 | **The Photo** | Eben | First aid room | Someone captures moment; Eben sees too late |
+| 6 | Quiet Space | Noel | Private room | Wound confrontation |
+| 7 | The Almost | Dual | Garland Cup | Almost confession; town watching |
+| 8 | Hook Ending | Eben | Noel's door | First stay request |
 
 ---
 
@@ -88,14 +92,15 @@ At the ice rink event, Noel overextends and gets hurt—and when Eben takes care
 **Dynamic:** Tender; verbal reassurance; no rush
 
 **Key moments:**
-- Eben caring for injured Noel
+- Eben removes coat, sweater to warm Noel during first aid
 - Physical gentleness (bandaging, checking face)
+- Skin-on-skin warmth (platonic but intimate)
 - "You don't have to be fine."
-- Cocoa together, close
+- Cocoa together, close—town glancing at them
 - Hand covering hand
 - "You could stay." "I want."
 
-**This episode is about emotional intimacy, not physical**
+**This episode is about emotional intimacy AND public exposure**
 
 ---
 
@@ -107,6 +112,7 @@ At the ice rink event, Noel overextends and gets hurt—and when Eben takes care
 | Noel | "I need—" | Unfinished (finishes EP11) |
 | Noel | "You could stay." | First overnight request |
 | Eben | "I want." | Simple yes |
+| Town member | "Saw the photo. You two are *cute*." | Scandal confirmation |
 
 ---
 
@@ -114,15 +120,16 @@ At the ice rink event, Noel overextends and gets hurt—and when Eben takes care
 
 - **Ice/gliding/falling:** Physical vulnerability
 - **Bandaged wrist:** Visible in later episodes
-- **Being caught:** Received care
+- **Being caught:** Both by camera and by care
+- **Scandal/exposure:** Public vs private selves
 
 ---
 
 ## Cozy Textures
 
-- **Smell:** Ice, cocoa, cold air
-- **Tactile:** Wrapped wrist, warm drinks, Eben's hands
-- **Light:** Winter sun, rink lights, Garland warmth, apartment
+- **Smell:** Ice, cocoa, cold air, skin
+- **Tactile:** Wrapped wrist, warm drinks, Eben's hands, body warmth
+- **Light:** Winter sun, rink lights, phone flash, Garland warmth, apartment
 - **Food:** Cocoa at Garland Cup
 
 ---
@@ -132,7 +139,8 @@ At the ice rink event, Noel overextends and gets hurt—and when Eben takes care
 | Character | Function | Key Line |
 |-----------|----------|----------|
 | Hugh | Background chaos | At the rink |
-| Wes | Wisdom | Observing from café |
+| Wes | Wisdom + observation | "Photo's already going around." |
+| Photo-taker | Scandal catalyst | Face unseen; phone visible |
 | Families | Setting | Skating community |
 
 ---
@@ -140,19 +148,21 @@ At the ice rink event, Noel overextends and gets hurt—and when Eben takes care
 ## Continuity Notes
 
 **Establish:**
+- **Photo incident** = scandal seed (sets up EP9)
 - "I need—" = unfinished (MUST complete in EP11)
 - Bandaged wrist = visible callback
 - First overnight stay request
 - Eben's caretaking fully unlocked
+- Town gossip machine activated
 
 **Build from EP6:**
 - "It's real" = now living that
 - Trust continuing to deepen
 
-**Set up for EP8:**
-- Market collapses
-- Overnight rebuild together
-- Commitment-coded intimacy
+**Set up for EP9:**
+- EP7 photo + EP5 sponsor photos = double exposure
+- Town already saw intimate moment
+- Mayor uses photos innocently → explosion
 
 ---
 
@@ -163,11 +173,15 @@ Start: Overworking despite relationship
 ↓
 Injury forces vulnerability
 ↓
-Receives care (struggles)
+Receives care (intimate, layers off)
+↓
+PHOTOGRAPHED (scandal)
 ↓
 Almost-confession
 ↓
-End: First overnight (together)
+Town gossip begins
+↓
+End: First overnight (together, world watching)
 ```
 
 ---
@@ -186,6 +200,7 @@ End: First overnight (together)
 - They rebuild it together overnight
 - Sex that feels like commitment
 - "I want you to stay. Not just tonight."
+- Photo gossip continues in background
 
 ---
 
@@ -195,19 +210,20 @@ End: First overnight (together)
 Opening line options:
 - *"Noel was fine. He was also on the ice, with a twisted wrist, surrounded by concerned children, and being stared at by Eben Frost like he'd personally offended him by having a body that could be injured."*
 - *"The problem with being taken care of is that it requires admitting you need care. Noel would rather ice skate into traffic."*
-- *"Eben bandaged Noel's wrist like he was disarming a bomb. Which, emotionally, he kind of was."*
+- *"Someone took a photo. Eben would spend the next twenty-four hours pretending this was fine. It was not fine. It was currently circulating through Tinsel Town's group chats like a festive virus."*
 
 ### Comedy Beats to Lean Into
 1. **Kid witnesses the fall** - "Are you okay mister?" "Fine!" *internal screaming*
-2. **Eben's concerned face** - He thinks it's neutral. It is Murder Mode. 
-3. **The cocoa situation** - Holding cups. Not touching. Very much wanting to.
-4. **Noel's allergy to being helped** - Actively feral about it
-5. **First overnight request** - Casual! Totally casual! (Not casual at all.)
+2. **Eben's concerned face** - He thinks it's neutral. It is Murder Mode.
+3. **The photo moment** - Eben sees the phone too late. Phone disappears. Dread.
+4. **Wes breaking the news** - "Photo's already going around. You look cozy."
+5. **Noel's allergy to being helped** - Actively feral about it
+6. **First overnight request** - Casual! The town already knows! (Not casual at all.)
 
 ### Snarky Character Observations
 - Noel being treated: *"He was not good at receiving care. The last time someone had tried to fuss over him, he'd hidden in a supply closet. He was a work in progress."*
-- Eben's internal: *"Stop looking at me like that. I'm just wrapping a bandage. This is not—why are your eyes doing that."*
-- Narrator: *"They drank cocoa like two people who were absolutely not thinking about the other person's mouth. Very convincing."*
+- Eben's internal on the photo: *"Someone had taken a picture. Eben was going to be extremely calm about this. He was also going to find that phone and destroy it. Very calmly."*
+- Narrator: *"They drank cocoa like two people who were absolutely not thinking about the photo currently making its way through every phone in a fifty-mile radius."*
 
 ### Deadpan Dialogue Gems
 ```
@@ -219,13 +235,23 @@ Opening line options:
 "...I don't know how to not be fine."
 ```
 
+```
+"There's a photo."
+"I saw."
+"The whole town—"
+"I know."
+"Are we going to address—"
+"Not tonight. Please."
+```
+
 ### Read-Aloud Gold
 - "I need—" *cuts off* - THE UNFINISHED SENTENCE. We will remember this.
 - "You could stay." - finally. FINALLY.
 - Eben's simple: "I want." - No conditions. No escape hatch.
+- Wes: "Saw the photo. You two look *cozy*." - Maximum calm. Maximum chaos.
 
 ### Holiday Coziness Moments
 - Ice rink lights reflecting on the snow
-- Bandaged wrist and warm cocoa  
-- The walk home, close enough to touch
+- Bandaged wrist and warm cocoa
+- The walk home, close enough to touch, town watching
 - First night staying over (actually sleeping, together, holding)

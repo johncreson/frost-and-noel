@@ -6,7 +6,23 @@ That was the thing about Eben Frost—he held everything together. Other people'
 
 Right now, he was holding Noel's wrist like it was the most important thing in the world.
 
-"Does this hurt?" Eben asked, gently probing the swelling.
+The first aid room was small. A converted storage closet, really. Private. Or it was supposed to be.
+
+Eben had already shrugged off his coat. His sweater followed. He pulled Noel's jacket off gently, careful of the injured wrist.
+
+"What are you doing?" Noel asked.
+
+"You're cold. Body warmth helps." Eben wrapped his coat around Noel's shoulders. "You're shivering."
+
+"I'm fine."
+
+"You're shivering and you just fell on ice. That's not fine."
+
+Eben sat beside him, close enough that their shoulders touched. His hand found Noel's uninjured one and held it.
+
+The door was cracked. Neither of them noticed.
+
+"Does this hurt?" Eben asked, gently probing the swelling on Noel's wrist.
 
 "A little."
 
@@ -66,23 +82,49 @@ Noel laughed. It sounded wet. "Yeah?"
 
 "Yeah."
 
-Eben finished wrapping the bandage. Checked it twice. Made sure it was secure.
+In the doorway—just for a second—a flash of light.
 
-Then he sat back. Looked at Noel.
+A phone.
 
-"You're allowed to need help," Eben said. "You're allowed to be hurt. You're allowed to not be fine."
+Eben's head snapped toward the door. The crack was still there. The light was gone.
 
-"That's a lot of allowances."
+"Was that—" Noel started.
 
-"You deserve all of them."
+"Yes."
 
-Noel's chest felt too full. "Eben—"
+Someone had taken a photo. Through the cracked door. Of them. Eben with his coat wrapped around Noel, his hand on Noel's face, their bodies close in a way that left nothing to imagination.
+
+"Eben—"
+
+"I saw them. I don't know who." Eben's jaw was tight. "They're gone."
+
+Noel felt cold. Not from the ice rink. From the sudden awareness that whatever privacy they'd had was probably already circulating through Tinsel Town's group chats.
+
+"What do we do?"
+
+Eben looked at him. Then, deliberately, he finished wrapping the bandage. Checked it twice. Made sure it was secure.
+
+"Nothing," Eben said finally. "We don't hide. We don't explain. We just—are."
+
+"That's terrifying."
+
+"I know."
+
+Eben finished with the bandage and sat back. Looked at Noel.
+
+"You're allowed to need help," Eben said. "You're allowed to be hurt. You're allowed to not be fine. And apparently—" his mouth quirked, dark humor surfacing— "we're also allowed to be gossip."
+
+Noel laughed despite himself. "You're taking this well."
+
+"I'm compartmentalizing. The panic will come later."
+
+"Noted."
 
 "Come on," Eben said, standing. "We're getting you cocoa."
 
 "I should check on the event—"
 
-"Hugh has it. Wes is helping. The town is fine. You are going to sit down, drink cocoa, and let yourself be taken care of."
+"Hugh has it. Wes is helping. The town is fine. You are going to sit down, drink cocoa, and let yourself be taken care of. The fact that someone took a photo of us doesn't change any of that."
 
 "Is that an order?"
 
@@ -98,6 +140,10 @@ Being cared for. Being allowed to not be fine.
 
 Being with someone who didn't need him to be useful to be worth keeping.
 
-It was terrifying.
+The fact that someone had photographed them should probably bother him more.
 
-It was also the best thing that had ever happened to him.
+It didn't.
+
+If the whole town wanted to know that Eben Frost looked at Noel Merrick like he was something precious—well.
+
+Let them look.
